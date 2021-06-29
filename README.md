@@ -47,11 +47,10 @@
   <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2013-999999?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro 2013" />
 </p>
 
-<h2>Some Stats</h2>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<h2 align="center">GitHub Stats </h2>
 
 <p align="center">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=PascalHonegger&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="Pascal Honegger's GitHub Contribution Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PascalHonegger&layout=compact" alt="Pascal Honegger's Language Stats" />
 </p>
