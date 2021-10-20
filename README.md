@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GTX 1080" />
   <img src="https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="i7 7th Gen" />
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2013-999999?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro 2013" />
+  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_16%22_2021_(M1_MAX)-999999?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro 16&quot; 2021 (M1 MAX)" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
