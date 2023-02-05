@@ -42,7 +42,7 @@
 
 <h2 align="center">💻 Workspace Spec</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GTX 1080" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="RTX 4080" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_7700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen 7 7700X" />
   <img src="https://img.shields.io/badge/Apple-MacBook_Pro_16%22_2021_(M1_MAX)-999999?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro 16&quot; 2021 (M1 MAX)" />
 </p>
