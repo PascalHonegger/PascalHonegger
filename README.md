@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Pascal Honegger</h1>
 
 <h4 align="center">🥇 1st Place ICTSkills 2018</h4>
-<h4 align="center">Professional Developer at Zürcher Kantonalbank</h4>
-<h5 align="center">Currently doing my Bachelors in Computer Science part-time at the University of Applied Sciences of Eastern Switzerland</h5>
+<h4 align="center">Senior Developer at Zürcher Kantonalbank #ITmadeinChreis5</h4>
+<h5 align="center">Bachelors in Computer Science from the University of Applied Sciences of Eastern Switzerland</h5>
 <h5 align="center">Sometimes helping out over at <a href="https://mediasign.ch/">Mediasign</a></h5>
-
+ 
 <p align="center">
   <a href="https://github.com/PascalHonegger">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
